@@ -1,0 +1,145 @@
+    1  sudo spctl --master-disable
+    2  brew install --cask dbeaver-community
+    3  brew install --cask dbeaver-community
+    4  brew install --cask dbeaver-community
+    5  brew install --cask dbeaver-community
+    6  man cd
+    7  brew install --cask dbeaver-community
+    8  brew install --cask dbeaver-community
+    9  beamer is built for Intel macOS and so requires Rosetta 2 to be installed.\nYou can install Rosetta 2 with:\n    softwareupdate --install-rosetta --agree-to-license\nNote that it is very difficult to remove Rosetta 2 once it is installed.
+   10   softwareupdate --install-rosetta --agree-to-license
+   11  brew install --cask dbeaver-community
+   12  brew install --cask dbeaver-community
+   13  https://github.com/
+   14  cd ~/GOIT
+   15  man 1s
+   16  man
+   17  man GOIT
+   18  man [GOIT]
+   19  dei
+   20  del
+   21  rm
+   22  ls
+   23  cls
+   24  clear
+   25  cd
+   26  1s
+   27  ls
+   28  cd Desktop
+   29  ls
+   30  cd GOIT
+   31  history -c && rm ~/.bash_history
+   32  cd GOIT
+   33  git config --global user.name "\nZhitnikovaAina"
+   34  git config --global user.email "alina04ter@gmail.com"
+   35  git clone https://github.com/ZhitnikovaAina/HW_10.git
+   36  git config --global user.name "ZhitnikovaAina"
+   37  git config --global user.email "alina04ter@gmail.com"
+   38  git clone https://github.com/ZhitnikovaAina/HW_10.git\n
+   39  git status
+   40  sd HW_10
+   41  cd HW_10
+   42  git status
+   43  touch text_ignore.txt 
+   44   git status
+   45  git add text_ignore.txt
+   46  git status
+   47  git commir -m "Newfile created"
+   48  git commit -m "Test_1и"
+   49  git status
+   50  touch main_test.txt
+   51  git commit -m Test 2
+   52  git status
+   53  touch text_ignore.txt
+   54  git commit -m Test 2 
+   55  git commit -m Test_2
+   56  git add text_ignore.txt
+   57  git commit -m Test_2 
+   58  git status
+   59  touch text_ignore.txt 
+   60  git status
+   61  [200~touch main_test.txt
+   62  gitignore main_test.txt
+   63  git status
+   64  git clone main_test.txt
+   65  git status
+   66  git status
+   67  git add main_test.txt
+   68  git ststus
+   69  git branch
+   70  git chekout develop
+   71  touch develop_test.txt
+   72  git add develop_test.txt
+   73  git commit -m "Test_3"
+   74  git status
+   75  git add just a small change
+   76  git status
+   77  git add develop_test.txt
+   78  git status
+   79  git commit -m "Додано рядок до develop_test.txt"
+   80  git checkout main
+   81  git merge develop
+   82  git log
+   83  history > command_history.csv
+   84  git push 
+   85  git push alina04ter@gmail.com
+   86  git history > command_history.csv
+   87  git push
+   88  history > command_history.txt
+   89  git add command_history.txt
+   90  git commit -m "Додав новий файл і зробив деякі зміни"
+   91  git push
+   92  history 10 >history 0 > command_list.csv
+   93  git add command_list.csv
+   94  git commit -m "Test_5"
+   95  git push
+   96  cd GOIT
+   97  CD
+   98  cd
+   99  man
+  100  il
+  101  is
+  102  is 
+  103  ls
+  104  Desktop
+  105  cd Desktop
+  106  cd Desktop\t
+  107  cd Desktop
+  108  ls
+  109  cd Desktop
+  110  cd GOIT
+  111  cd HW_10
+  112  README.md
+  113  cd Readme.md
+  114  git config --global user.name ZhitnikovaAina
+  115  git config --global user.email alina04ter@gmail.com
+  116  git clone https://github.com/ZhitnikovaAina/HW_10.git
+  117  ls
+  118  cd Desktop
+  119  cd GOIT
+  120  git config --global user.name ZhitnikovaAina
+  121  alina04ter@gmail.com
+  122  git clone https://github.com/ZhitnikovaAina/HW_10.git
+  123  cd HW_10
+  124  touch text_ignore.txt
+  125  nano .gitignore
+  126  git status
+  127  git add text_ignore.txt
+  128  nano .gitignore
+  129  git commit -m "Додав файл .gitignore для ігнорування text_ignore.txt"
+  130  git add  text_ignore.txt
+  131  git commit -m "Додав файл .gitignore для ігнорування text_ignore.txt"
+  132  touch main_test.txt
+  133  git add main_test.txt
+  134  git commit -m "Створено файл main_test.txt"
+  135  git branch develop
+  136  it checkout develop
+  137  touch develop_test.txt
+  138  git add develop_test.txt
+  139  git commit -m "Створено файл develop_test.txt"
+  140  git status
+  141  git add develop_test.txt
+  142  git commit -m "Додано рядок до develop_test.txt"
+  143  git checkout main
+  144  git merge develop
+  145  git log
